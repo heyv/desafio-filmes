@@ -1,4 +1,4 @@
-Projeto de login, listagem, inserção, edição de catálogos de filmes consumindo apis para conexão com o backend. 
+Projeto de login, listagem, inserção e edição de catálogos de filmes consumindo apis para conexão com o backend. 
 
 - Utilizando as tecnologias de reactJS com typescript.
 
