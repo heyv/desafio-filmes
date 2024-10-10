@@ -1,10 +1,10 @@
 Projeto de login, listagem, inserção e edição de catálogos de filmes consumindo apis para conexão com o backend. 
 
-- Utilizando as tecnologias de reactJS com typescript.
+- Utilizando as tecnologias de ReactJS com Typescript, integração com APIs e estilização com styled-components.
 
-instruções:
-- Intalar o pacote yarn;
+Instruções:
+- Instalar o pacote yarn;
 
-- após instalação inicializar com yarn start;
+- Após instalação inicializar com yarn start;
 
-- abrir no navegador no link http://localhost:3000/login
+- Abrir no navegador no link http://localhost:3000/login
